@@ -1,3 +1,8 @@
+# :busts_in_silhouette: Equipe
+1) Vitor
+2) Ricardo
+3) João Olivio  
+
 # Vítor Guizardi Cogo
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
